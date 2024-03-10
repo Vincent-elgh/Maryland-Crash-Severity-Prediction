@@ -1,6 +1,6 @@
 # Predicting Accident Severity in Maryland with Machine Learning
 
-## This project, developed by Group 3 for INSY 662 (Data Mining & Visualization), aims to enhance road safety in Maryland, USA, by predicting car crash severity using machine learning techniques. The predictive model assesses the extent of damage and passenger injury to inform policy recommendations for traffic regulation implementation.
+### This project, developed by Group 3 for INSY 662 (Data Mining & Visualization), aims to enhance road safety in Maryland, USA, by predicting car crash severity using machine learning techniques. The predictive model assesses the extent of damage and passenger injury to inform policy recommendations for traffic regulation implementation.
 
 ## Project Overview
 - Goal: Develop a model to predict car crash severity in Maryland, using it as a basis for data-driven policy recommendations to improve road safety.
