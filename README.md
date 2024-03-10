@@ -12,15 +12,15 @@
   - Class Imbalance Mitigation: Employing undersampling to enhance model performance.
   - Hyperparameter Tuning: Optimizing model parameters for improved accuracy.
 ## Key Findings
-The model demonstrates the ability to predict high-emergency crashes with significant accuracy, highlighting the importance of specific variables like 'Vehicle Damage Extent' in injury prediction.
-SHAP analysis provides insights into the impact of individual features on the prediction outcome, aiding in understanding model decisions.
-Policy Recommendations
-Enhance emergency response procedures based on feature importance insights.
-Implement targeted safety measures for high-risk areas identified through geospatial analysis.
-Tools and Technologies
-Python for data analysis and modeling, including libraries like Pandas, Scikit-learn, and XGBoost.
-Streamlit for deploying an interactive web demo to showcase model predictions.
-Future Directions
-Exploring neural networks for potentially improved predictions, albeit with complexity and interpretability considerations.
-Investigating further into geographical clustering to optimize emergency response locations.
+- The model demonstrates the ability to predict high-emergency crashes with significant accuracy, highlighting the importance of specific variables like 'Vehicle Damage Extent' in injury prediction.
+- SHAP analysis provides insights into the impact of individual features on the prediction outcome, aiding in understanding model decisions.
+## Policy Recommendations
+- Enhance emergency response procedures based on feature importance insights.
+- Implement targeted safety measures for high-risk areas identified through geospatial analysis.
+## Tools and Technologies
+- Python for data analysis and modeling, including libraries like Pandas, Scikit-learn, and XGBoost.
+- Streamlit for deploying an interactive web demo to showcase model predictions.
+## Future Directions
+- Exploring neural networks for potentially improved predictions, albeit with complexity and interpretability considerations.
+- Investigating further into geographical clustering to optimize emergency response locations.
 For more details on the methodology, model evaluation, and insights, please refer to the full report and code in this repository.
